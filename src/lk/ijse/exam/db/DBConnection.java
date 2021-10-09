@@ -1,3 +1,17 @@
+/*
+        *
+        *  * ----------------------------------------------------------------------------------------------------------------
+        *  * copyright (c) GDSE-Exam. All rights received.
+        *  *  Licensed under the Sri Lankan Information License.See License.txt in the project root for the license.
+        *  *  *----------------------------------------------------------------------------------------------
+        *  *
+        *
+        */
+/**
+ * @author Isuri Disanayaka <isuriumeshika1@gmail.com>
+ * @since 09/10/2021
+ **/
+
 package lk.ijse.exam.db;
 
 import java.sql.Connection;
